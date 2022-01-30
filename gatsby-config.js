@@ -6,8 +6,8 @@ module.exports = {
   plugins: [{
     resolve: 'gatsby-source-contentful',
     options: {
-      "accessToken": "CFPAT-hIgcu-T-9RSU65PABE0e0iJdIFLYiitNBz-7xlpR5t0",
-      "spaceId": ""
+      "accessToken": "iIPCrqAPZmkkV1ivF0ca7eQRAuHqXK3J3HALkqkKOMc",
+      "spaceId": "vv3obvttbw6k"
     }
   }, "gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
